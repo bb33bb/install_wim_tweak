@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\install_wim_tweak\bin\Release\net46\install_wim_tweak.exe.config
+C:\Users\Administrator\Desktop\install_wim_tweak\bin\Release\net46\install_wim_tweak.exe
+C:\Users\Administrator\Desktop\install_wim_tweak\bin\Release\net46\install_wim_tweak.pdb
+C:\Users\Administrator\Desktop\install_wim_tweak\obj\Release\net46\install_wim_tweak.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\install_wim_tweak\obj\Release\net46\install_wim_tweak.exe
+C:\Users\Administrator\Desktop\install_wim_tweak\obj\Release\net46\install_wim_tweak.pdb
